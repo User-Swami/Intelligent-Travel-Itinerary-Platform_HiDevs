@@ -1,0 +1,72 @@
+{
+  "Paris": {
+    "History": ["Eiffel Tower", "Louvre Museum", "Notre-Dame Cathedral"],
+    "Nature": ["Luxembourg Gardens", "Bois de Boulogne"],
+    "Food": ["Le Cinq", "L'Ambroisie"],
+    "Culture": ["Moulin Rouge", "Palais Garnier"],
+    "Adventure": ["Seine River Kayaking", "Indoor Skydiving"]
+  },
+  "Tokyo": {
+    "History": ["Senso-ji Temple", "Meiji Shrine"],
+    "Nature": ["Ueno Park", "Mount Takao"],
+    "Food": ["Sushi Dai", "Ichiran Ramen"],
+    "Culture": ["Kabuki-za Theater", "Akihabara"],
+    "Adventure": ["Mount Fuji Hike", "Odaiba VR Park"]
+  },
+  "New York": {
+    "History": ["Statue of Liberty", "Ellis Island"],
+    "Nature": ["Central Park", "Prospect Park"],
+    "Food": ["Katz's Delicatessen", "Joe's Pizza"],
+    "Culture": ["Broadway", "Metropolitan Museum of Art"],
+    "Adventure": ["Brooklyn Bridge Bike Tour", "Helicopter Ride"]
+  },
+  "Rome": {
+    "History": ["Colosseum", "Roman Forum"],
+    "Nature": ["Villa Borghese Gardens", "Orange Garden"],
+    "Food": ["Trattoria da Enzo", "Roscioli"],
+    "Culture": ["Vatican Museums", "Sistine Chapel"],
+    "Adventure": ["Segway City Tour", "Tiber River Cruise"]
+  },
+  "Bangkok": {
+    "History": ["Grand Palace", "Wat Pho"],
+    "Nature": ["Lumphini Park", "Chatuchak Park"],
+    "Food": ["Jay Fai", "Thip Samai Pad Thai"],
+    "Culture": ["Bangkok Art and Culture Centre", "Erawan Shrine"],
+    "Adventure": ["Canal Boat Tour", "Asiatique Sky Ferris Wheel"]
+  },
+  "London": {
+    "History": ["Tower of London", "Westminster Abbey"],
+    "Nature": ["Hyde Park", "Kew Gardens"],
+    "Food": ["Dishoom", "Gordon Ramsay"],
+    "Culture": ["British Museum", "Tate Modern"],
+    "Adventure": ["Thames River Cruise", "London Eye Ride"]
+  },
+  "Dubai": {
+    "History": ["Al Fahidi Historic District", "Dubai Museum"],
+    "Nature": ["Dubai Creek", "Ras Al Khor Wildlife Sanctuary"],
+    "Food": ["Al Fanar Restaurant", "Ravi Restaurant"],
+    "Culture": ["Opera House", "Alserkal Avenue"],
+    "Adventure": ["Desert Safari", "Burj Khalifa Observation Deck"]
+  },
+  "Istanbul": {
+    "History": ["Hagia Sophia", "Topkapi Palace"],
+    "Nature": ["Gülhane Park", "Princes’ Islands"],
+    "Food": ["Hafiz Mustafa", "Balik Ekmek"],
+    "Culture": ["Whirling Dervishes Show", "Istanbul Modern"],
+    "Adventure": ["Bosporus Ferry Ride", "Büyükada Bike Tour"]
+  },
+  "Singapore": {
+    "History": ["National Museum", "Chinatown Heritage Centre"],
+    "Nature": ["Gardens by the Bay", "MacRitchie Reservoir"],
+    "Food": ["Lau Pa Sat", "Hawker Chan"],
+    "Culture": ["Esplanade Theatres", "Indian Heritage Centre"],
+    "Adventure": ["Sentosa Adventure Cove", "Night Safari"]
+  },
+  "Barcelona": {
+    "History": ["Sagrada Familia", "Gothic Quarter"],
+    "Nature": ["Park Güell", "Montjuïc Hill"],
+    "Food": ["Tickets Bar", "Cal Pep"],
+    "Culture": ["Palau de la Música", "Museu Picasso"],
+    "Adventure": ["Jet Ski Barcelona", "Montjuïc Cable Car"]
+  }
+}
