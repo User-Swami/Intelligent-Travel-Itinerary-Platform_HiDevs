@@ -129,6 +129,7 @@ st.markdown("""
             font-weight: bold;
             color: #8B008B;
         }
+        
         .info-box {
             background: #d7ccc8;
             color: #8B008B;
